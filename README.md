@@ -5,5 +5,5 @@ Given certain constraints such that the average delay time should not be higher 
 The simulated model in this paper factored in an induced temporary break down due to electrical malfunction with a 30-minute delay for fixing the problem as well as delay caused by random events and reports the distribution of the actual delayed times.
 
 * CA1-H9MSO_Project_Outline: This is the problem statement for the project
-* MSO_x19173105_Project_Report_Oluwatobi_Ekundayo : This file contains the code developed for the simulation and optimisation problem
+* MSO_x19173105_Project_Code: This file contains the code developed for the simulation and optimisation problem
 * MSO_x19173105_Project_Output: This file presents the output of the simulation and optimisation solution
